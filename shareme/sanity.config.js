@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'shareMe',
 
-  projectId: 'onbsfpob',
+  projectId: '2j6tkrkp',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
